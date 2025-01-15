@@ -51,7 +51,7 @@
 </head>
 <body>
     <div class="content-container">
-        <h1>Random Meme Generator</h1>
+        <h1>Random Meme Generator by Rutuja Gaikwad</h1>
         <img id="memeImage" src="" alt="Meme will appear here!" />
         <br>
         <button onclick="fetchMeme()">Get New Meme</button>
